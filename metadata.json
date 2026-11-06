@@ -1,0 +1,6 @@
+{
+  "name": "Sabiet CMS",
+  "description": "Official Sabiet CMS mobile app featuring high-performance WebView, persistent session management, Google password autofill, offline error handling, and pull-to-refresh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
